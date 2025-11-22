@@ -1,0 +1,4 @@
+Python is a programming language used for web development, AI, machine learning, data science, automation, and scripting.
+Django is a Python web framework.
+LLMs are large language models used for text generation.
+Groq is a fast inference engine for running LLMs.
